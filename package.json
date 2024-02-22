@@ -1,5 +1,5 @@
 {
-  "name": "fast-csv",
+  "name": "gyj-fast-csv",
   "private": true,
   "scripts": {
     "clean": "lerna run clean",
